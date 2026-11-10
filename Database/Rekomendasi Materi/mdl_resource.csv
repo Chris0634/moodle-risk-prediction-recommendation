@@ -1,0 +1,237 @@
+"id","course","name","intro","introformat","tobemigrated","legacyfiles","legacyfileslast","display","displayoptions","filterfiles","revision","timemodified"
+"6180","332","File Materi Pertemuan I : Pengenalan IoT","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1630409814"
+"6181","332","Materi IoT  dari ISOC (Internet Socienty) untuk Tugas I","<p dir=""ltr"" style=""text-align: center;"">Tugas I:</p>
+<p dir=""ltr"" style=""text-align: left;"">Pelajari materi berikut ini&nbsp; (sesuai dengan tugas kelompoknya yang&nbsp; dibahas di pertemuan virtual tadi) dan buatlah rangkumannya tentang isi materi tersebut, minumum 2 lembar A4 dan Maksimum 4 lembar A4 (font times new Roman 12px, 1½ spasi, margin kiri,kanan,atas,bawah = 2cm), dan laporan (dalam bentuk file pdf dengan namafile T_PIOTP_1_KELxx.pdf , xx=nomor kelompok) harus sudah masuk 2 hari sebelum pertemuan berikutnya dan di upload di tempat yang disediakan di pertemuan ke 2</p>
+
+<table border=""1"">
+    <thead>
+        <tr>
+            <th scope=""col"">Group&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br></th>
+            <th scope=""col"">&nbsp;Halaman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1<br></td>
+            <td>11-17<br></td>
+        </tr>
+        <tr>
+            <td>2<br></td>
+            <td>18-25<br></td>
+        </tr>
+        <tr>
+            <td>3<br></td>
+            <td>31-38<br></td>
+        </tr>
+        <tr>
+            <td>4<br></td>
+            <td>39-44<br></td>
+        </tr>
+        <tr>
+            <td>5<br></td>
+            <td>45-52<br></td>
+        </tr>
+        <tr>
+            <td>6<br></td>
+            <td>53-60<br></td>
+        </tr>
+        <tr>
+            <td>7<br></td>
+            <td>61-69<br></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"10","1633044687"
+"6182","332","Materi Kuliah PIoT Praktis Pertemuan ke dua","<h5 dir=""ltr"" style=""text-align: left;"">Pertemuan dua ini Akan Membahas lebih lanjut tentang arsitektur dan protokol pada IoT</h5><h5 dir=""ltr"" style=""text-align: left;"">Silahkan download materi berikut ini, dan akan dibahas pada saat tatap muka daring<br></h5>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"3","1630489176"
+"6183","332","File Materi pertemuan 4 : NodeMCU (didalamnya sudah ada materi untuk praktik)","<p dir=""ltr"" style=""text-align: left;""></p><div><strong>Bahan yang diperlukan minimal (selama praktik):</strong></div><div>1 Buah Node MCU (ESP8266-12) + Kabel koneksi ke komputer</div><div>1 Buah BreadBoard</div><div>30 pcs Kabel jumper&nbsp; @ 10 pcs&nbsp; male-male, male-female, female-female</div><div>2 Tactile Switch push on<br></div><div>10 LED 5mm (disarankan ada warna merah,kuning dan hijau)</div><div>10 resistor 330 ohm/470ohm/560ohm/1Kohm</div><div>2 resistor 10K Ohm</div><div>1 sensor cahaya LDR</div><div>1 sensor suhu LM35 (atau DHT 11)<br></div><div>Disarankan mempunyai sensor jarak Ultrasonic HCSR04, LCD Display 16x2 with I2C dan sesnsor2/aktuator lainnya</div><br><p></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"5","1634549028"
+"6184","332","Driver Serial CH34x","<p dir=""ltr"" style=""text-align: left;"">Driver NodeMCU (windows 10) yang menggunakan Chip USB to Serial tipe CH340<br></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"3","1633400548"
+"6185","332","Module tambahan : Beginners Guide to the ESP8266","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1633397908"
+"6186","332","Materi Pengantar IoT Praktis: NodeRed - TCP - NodeMCU","<br><p></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1636771851"
+"6187","332","Materi Pengantar IoT Praktis: Install Mosquitto di Windows 10","<br><p></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"3","1636974412"
+"6188","332","Materi Pengantar IoT Praktis: NodeRed - MQTT- NodeMCU","<br><p></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"4","1637028578"
+"6189","332","IFTTT (Google Assist-WebHook),Node MCU dan Blynk Voice Commander / Voice Control","<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/konsep_voice_control.png?time=1638782629311"" alt=""Konsep Voice Control"" role=""presentation"" class=""img-fluid atto_image_button_middle"" width=""1296"" height=""523""><br></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"6","1638840999"
+"6179","332","RPS Pengantar IoT Praktis","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"2","1642728767"
+"2964","635","Slide Perkuliahan","<p dir=""ltr"" style=""text-align: left;"">Berikut Slide Perkuliahan yang berisi rangkuman topik ini, silahkan dipelajari kembali<br></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"1","1632373662"
+"3564","635","Slide Perkuliahan","<p dir=""ltr"" style=""text-align: left;"">Berikut Slide Perkuliahan yang berisi rangkuman topik ini, silahkan dipelajari kembali<br></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"3","1632990667"
+"5426","635","Library One Wire","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1635525492"
+"5427","635","Library Dallas Temperature","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1635525539"
+"8086","635","Library Keypad","<p dir=""ltr"" style=""text-align: left;"">Gunakan library untuk dapat menggunakan keypad secara mudah</p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1641369968"
+"8893","635","Download RPS Hybrid","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah Rencana Pembelajaran Semester untuk Mata Kuliah Internet Of Things</p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"2","1643000478"
+"8895","635","Download RTM, LKM, LPHB Topik 1: Pengantar Internet of Things","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Topik 1: Pengantar Internet of Things<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"1","1643000579"
+"8896","635","Download RTM, LKM, LPHB Topik 2: Arsitektur IoT dan Penerapannya","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Topik 2: Arsitektur IoT dan Penerapannya<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"1","1643000664"
+"8894","635","Download RPP Pertemuan 1-16","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah Rencana Pelaksanaan Pembelajaran untuk Mata Kuliah Internet Of Things<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1643003184"
+"8900","636","Download RTM, LKM, LPHB Praktikum 2: Hello LED Coding....","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Praktikum 2: Hello LED Coding....<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"2","1643004494"
+"8899","636","Download RTM, LKM, LPHB Praktikum 1: IoT dengan Tinkercad","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Praktikum 1: IoT dengan Tinkercad<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"2","1643004515"
+"8897","636","Download RPS Hybrid","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah Rencana Pembelajaran Semester untuk Mata Kuliah Praktikum Internet of Things<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"1","1643001813"
+"8898","636","Download RPP Pertemuan 1-14","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah Rencana Pelaksanaan Pembelajaran untuk Mata Kuliah Praktikum Internet of Things<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"2","1643003493"
+"11759","1526","Download RTM, LKM, LPHB Praktikum 1: IoT dengan Tinkercad","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Praktikum 1: IoT dengan Tinkercad<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1650455444"
+"11758","1526","Download RPP Pertemuan 1-14","<p dir=""ltr"">Berikut adalah Rencana Pelaksanaan Pembelajaran untuk Mata Kuliah Praktikum Internet of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"4","1650455413"
+"11760","1526","Download RTM, LKM, LPHB Praktikum 2: Hello LED Coding....","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Praktikum 2: Hello LED Coding....<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1650455468"
+"11757","1526","Download RPS Hybrid","<p dir=""ltr"">Berikut adalah Rencana Pembelajaran Semester untuk Mata Kuliah Praktikum Internet of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1649899241"
+"21493","2396","RPS Pengantar IoT Praktis","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"2","1642728767"
+"21494","2396","File Materi Pertemuan I : Pengenalan IoT","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1630409814"
+"21498","2396","Driver Serial CH34x","<p dir=""ltr"" style=""text-align: left;"">Driver NodeMCU (windows 10) yang menggunakan Chip USB to Serial tipe CH340<br></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"3","1633400548"
+"21499","2396","Module tambahan : Beginners Guide to the ESP8266","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1633397908"
+"21500","2396","Materi Pengantar IoT Praktis: NodeRed - TCP - NodeMCU","<br><p></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1636771851"
+"21501","2396","Materi Pengantar IoT Praktis: Install Mosquitto di Windows 10","<br><p></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"3","1636974412"
+"21503","2396","IFTTT (Google Assist-WebHook),Node MCU dan Blynk Voice Commander / Voice Control","<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/konsep_voice_control.png?time=1638782629311"" alt=""Konsep Voice Control"" role=""presentation"" class=""img-fluid atto_image_button_middle"" width=""1296"" height=""523""><br></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"6","1638840999"
+"21496","2396","Materi Kuliah PIoT Praktis Pertemuan ke dua","<h5 dir=""ltr"" style=""text-align: left;"">Pertemuan dua ini akan mendiskusikan hasil tugas yang telah diberikan , dan selanjutnya membahas lebih lanjut tentang arsitektur dan protokol pada IoT.</h5><h5 dir=""ltr"" style=""text-align: left;"">Silahkan download materi berikut ini, dan akan dibahas pada saat pertemuan tatap muka onsite <br></h5>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"5","1663557641"
+"21497","2396","File Materi pertemuan 4 : NodeMCU (didalamnya sudah ada materi untuk praktik)","<p dir=""ltr"" style=""text-align: left;""></p><div><strong>Bahan yang diperlukan minimal (selama praktik):</strong></div><div>1 Buah Node MCU (ESP8266-12) + Kabel koneksi ke komputer</div><div>1 Buah BreadBoard</div><div>30 pcs Kabel jumper&nbsp; @ 10 pcs&nbsp; male-male, male-female, female-female</div><div>2 Tactile Switch push on<br></div><div>10 LED 5mm (disarankan ada warna merah,kuning dan hijau)</div><div>10 resistor 330 ohm/470ohm/560ohm/1Kohm</div><div>2 resistor 10K Ohm</div><div>1 sensor cahaya LDR</div><div>1 sensor suhu LM35 (atau DHT 11)<br></div><div>Disarankan mempunyai sensor jarak Ultrasonic HCSR04, LCD Display 16x2 with I2C dan sensor2/aktuator lainnya</div><br><p></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"9","1664833550"
+"21502","2396","Materi Pengantar IoT Praktis: NodeRed - MQTT (Mosquittto) - NodeMCU","<br><p></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"5","1668417048"
+"26160","2396","Materi Web Service - ThingSpeak","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1669036524"
+"23786","2667","Download RPS Hybrid","<p dir=""ltr"">Berikut adalah Rencana Pembelajaran Semester untuk Mata Kuliah Internet Of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"6","1650455052"
+"23787","2667","Download RPP Pertemuan 1-16","<p dir=""ltr"">Berikut adalah Rencana Pelaksanaan Pembelajaran untuk Mata Kuliah Internet Of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"6","1650455083"
+"23788","2667","Download RTM, LKM, LPHB","<p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Topik 1: Pengantar Internet of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"5","1650455112"
+"23789","2667","Download RTM, LKM, LPHB","<p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Topik 2: Arsitektur IoT beserta Penerapannya pada lingkungan Sistem Tertanam (Embedded System)</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"6","1650455258"
+"23792","2667","Library One Wire","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1635525492"
+"23793","2667","Library Dallas Temperature","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1635525539"
+"23794","2667","Library Keypad","<p dir=""ltr"" style=""text-align: left;"">Gunakan library untuk dapat menggunakan keypad secara mudah</p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1641369968"
+"23790","2667","Slide Perkuliahan Arsitektur IoT","<p dir=""ltr"" style=""text-align: left;"">Berikut Slide Perkuliahan yang berisi rangkuman topik ini, silahkan dipelajari kembali<br></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"2","1665016862"
+"23791","2667","Slide Perkuliahan Sistem Tertanam","<p dir=""ltr"" style=""text-align: left;"">Berikut Slide Perkuliahan yang berisi rangkuman topik ini, silahkan dipelajari kembali<br></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"4","1665016890"
+"23806","2670","Download RPS Hybrid","<p dir=""ltr"">Berikut adalah Rencana Pembelajaran Semester untuk Mata Kuliah Praktikum Internet of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1649899241"
+"23807","2670","Download RPP Pertemuan 1-14","<p dir=""ltr"">Berikut adalah Rencana Pelaksanaan Pembelajaran untuk Mata Kuliah Praktikum Internet of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"4","1650455413"
+"23808","2670","Download RTM, LKM, LPHB Praktikum 1: IoT dengan Tinkercad","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Praktikum 1: IoT dengan Tinkercad<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1650455444"
+"23809","2670","Download RTM, LKM, LPHB Praktikum 2: Hello LED Coding....","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Praktikum 2: Hello LED Coding....<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1650455468"
+"31746","3396","Download RPS Hybrid","<p dir=""ltr"">Berikut adalah Rencana Pembelajaran Semester untuk Mata Kuliah Praktikum Internet of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1649899241"
+"31747","3396","Download RPP Pertemuan 1-14","<p dir=""ltr"">Berikut adalah Rencana Pelaksanaan Pembelajaran untuk Mata Kuliah Praktikum Internet of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"4","1650455413"
+"31748","3396","Download RTM, LKM, LPHB Praktikum 1: IoT dengan Tinkercad","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Praktikum 1: IoT dengan Tinkercad<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1650455444"
+"31749","3396","Download RTM, LKM, LPHB Praktikum 2: Hello LED Coding....","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Praktikum 2: Hello LED Coding....<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1650455468"
+"31774","3397","Download RPS Hybrid","<p dir=""ltr"">Berikut adalah Rencana Pembelajaran Semester untuk Mata Kuliah Internet Of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"6","1650455052"
+"31775","3397","Download RPP Pertemuan 1-16","<p dir=""ltr"">Berikut adalah Rencana Pelaksanaan Pembelajaran untuk Mata Kuliah Internet Of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"6","1650455083"
+"31776","3397","Download RTM, LKM, LPHB","<p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Topik 1: Pengantar Internet of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"5","1650455112"
+"31777","3397","Download RTM, LKM, LPHB","<p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Topik 2: Arsitektur IoT beserta Penerapannya pada lingkungan Sistem Tertanam (Embedded System)</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"6","1650455258"
+"31778","3397","Slide Perkuliahan Arsitektur IoT","<p dir=""ltr"" style=""text-align: left;"">Berikut Slide Perkuliahan yang berisi rangkuman topik ini, silahkan dipelajari kembali<br></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"2","1665016862"
+"31779","3397","Slide Perkuliahan Sistem Tertanam","<p dir=""ltr"" style=""text-align: left;"">Berikut Slide Perkuliahan yang berisi rangkuman topik ini, silahkan dipelajari kembali<br></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"4","1665016890"
+"31780","3397","Library One Wire","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1635525492"
+"31781","3397","Library Dallas Temperature","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1635525539"
+"31782","3397","Library Keypad","<p dir=""ltr"" style=""text-align: left;"">Gunakan library untuk dapat menggunakan keypad secara mudah</p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1641369968"
+"42329","4547","Download RPS Hybrid","<p dir=""ltr"">Berikut adalah Rencana Pembelajaran Semester untuk Mata Kuliah Internet Of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"6","1650455052"
+"42330","4547","Download RPP Pertemuan 1-16","<p dir=""ltr"">Berikut adalah Rencana Pelaksanaan Pembelajaran untuk Mata Kuliah Internet Of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"6","1650455083"
+"42618","4547","Download RTM, LKM, LPHB","<p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Topik 1: Pengantar Internet of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"5","1650455112"
+"42619","4547","Download RTM, LKM, LPHB","<p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Topik 2: Arsitektur IoT beserta Penerapannya pada lingkungan Sistem Tertanam (Embedded System)</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"6","1650455258"
+"42620","4547","Slide Perkuliahan Arsitektur IoT","<p dir=""ltr"" style=""text-align: left;"">Berikut Slide Perkuliahan yang berisi rangkuman topik ini, silahkan dipelajari kembali<br></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"2","1665016862"
+"42622","4547","Library One Wire","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1635525492"
+"42623","4547","Library Dallas Temperature","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1635525539"
+"42624","4547","Library Keypad","<p dir=""ltr"" style=""text-align: left;"">Gunakan library untuk dapat menggunakan keypad secara mudah</p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1641369968"
+"42621","4547","Slide Perkuliahan Sistem Tertanam","<p dir=""ltr"" style=""text-align: left;"">Berikut Slide Perkuliahan yang berisi rangkuman topik ini, silahkan dipelajari kembali<br></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"5","1696489509"
+"42625","4549","Download RPS Hybrid","<p dir=""ltr"">Berikut adalah Rencana Pembelajaran Semester untuk Mata Kuliah Praktikum Internet of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1649899241"
+"42626","4549","Download RPP Pertemuan 1-14","<p dir=""ltr"">Berikut adalah Rencana Pelaksanaan Pembelajaran untuk Mata Kuliah Praktikum Internet of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"4","1650455413"
+"42627","4549","Download RTM, LKM, LPHB Praktikum 1: IoT dengan Tinkercad","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Praktikum 1: IoT dengan Tinkercad<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1650455444"
+"42628","4549","Download RTM, LKM, LPHB Praktikum 2: Hello LED Coding....","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Praktikum 2: Hello LED Coding....<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1650455468"
+"43708","4851","Materi ThingSpeak (cara Instalasi)","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1698711133"
+"39687","4851","RPS Pengantar IoT Praktis","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"2","1642728767"
+"39688","4851","File Materi Pertemuan I : Pengenalan IoT","<p dir=""ltr"" style=""text-align: center;""><img src=""@@PLUGINFILE@@/image.png"" alt="""" role=""presentation"" class=""img-fluid""><br></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"3","1695017573"
+"39690","4851","Apa itu IoT?","<h5 dir=""ltr"" style=""text-align: left;"">Pertemuan dua ini Akan Membahas lebih lanjut tentang arsitektur, Framework dan protokol pada IoT</h5><h5 dir=""ltr"" style=""text-align: left;"">Silahkan download materi berikut ini, dan akan dibahas pada saat tatap muka daring<br></h5>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"4","1695643264"
+"39692","4851","Driver Serial CH34x","<p dir=""ltr"" style=""text-align: left;"">Driver NodeMCU (windows 10) yang menggunakan Chip USB to Serial tipe CH340<br></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"3","1633400548"
+"39693","4851","Module tambahan : Beginners Guide to the ESP8266","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1633397908"
+"39697","4851","IFTTT (Google Assist-WebHook),Node MCU dan Blynk Voice Commander / Voice Control","<p dir=""ltr"" style=""text-align: left;""><br></p><p dir=""ltr"" style=""text-align: left;"">Dokementasi penggunaan Blynk : <a href=""https://docs.blynk.io/en/"">https://docs.blynk.io/en/</a></p><p dir=""ltr"" style=""text-align: left;""><br></p><p dir=""ltr"" style=""text-align: left;""><br></p><p dir=""ltr"" style=""text-align: left;""><br></p><p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/konsep_voice_control.png?time=1638782629311"" alt=""Konsep Voice Control"" role=""presentation"" class=""img-fluid atto_image_button_middle"" width=""1296"" height=""523""></p><p dir=""ltr"" style=""text-align: left;""><br></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"9","1700530818"
+"39695","4851","Materi Pengantar IoT Praktis: Install Mosquitto di Windows 10","<h4>
+    <header id=""header"">
+        <section>
+            <div>
+                <div>
+                    <h1><img src=""@@PLUGINFILE@@/image.png"" alt="""" role=""presentation"" class=""img-fluid"" width=""800""><br></h1>
+                    <h1><br></h1><h1>Eclipse Mosquitto™</h1>
+                    <h2>An open source MQTT broker</h2>
+                </div>
+            </div>
+            <hr>
+        </section>
+    </header>
+    <div>
+        <main id=""content"">
+            <article itemscope=""itemscope"" itemtype=""http://schema.org/Article"">
+                <header></header>
+                <div>
+                    <section>
+                        <div>
+                            <p></p><script id=""HOST"" src=""https://appsforoffice.microsoft.com/lib/1.1/hosted/word-win32-16.01.js"" type=""text/javascript"" crossorigin=""anonymous""></script>
+
+<script id=""OFFICESTRINGS"" src=""https://appsforoffice.microsoft.com/lib/1.1/hosted/en-us/office_strings.js"" type=""text/javascript"" crossorigin=""anonymous""></script>
+
+
+
+
+
+<script src=""https://appsforoffice.microsoft.com/lib/1.1/hosted/telemetry/oteljs_agave.js"" type=""text/javascript"" crossorigin=""anonymous""></script>
+
+
+<div id=""ts-body""><div><div id=""ContentContainer""><div><div><div role=""tabpanel"" aria-labelledby=""Pivot0-Tab0""><div><div id=""Lookup""><div><div><div lang=""id""><div><div tabindex=""0"" id=""ts-alignment-view-idtgt"" aria-hidden=""false""><div tabindex=""-1"" role=""label"">Eclipse Mosquitto adalah <em>broker</em> pesan <em>open source</em> (berlisensi EPL / EDL) yang mengimplementasikan protokol MQTT versi 5.0, 3.1.1 dan 3.1. Mosquitto ringan dan cocok untuk digunakan pada semua perangkat dari komputer papan tunggal berdaya rendah hingga server lengkap.
+Protokol MQTT menyediakan metode ringan untuk melakukan pengiriman pesan menggunakan model publikasi/berlangganan (<em>publish/Subscribe</em>). Ini membuatnya cocok untuk pesan Internet of Things seperti penggunaan pada sensor berdaya rendah atau perangkat seluler semisal ponsel, komputer tertanam atau mikrokontroler.
+Proyek Mosquitto juga menyediakan pustaka C untuk mengimplementasikan klien MQTT, dengan baris perintah (<em>command line</em>)<strong> mosquitto_pub</strong> dan <strong>mosquitto_sub</strong>.
+Mosquitto adalah bagian dari Eclipse Foundation, dan merupakan proyek <a href=""https://iot.eclipse.org/"" target=""_blank"">iot.eclipse.org</a>. Perkembangannya didorong oleh <a href=""https://cedalo.com/mqtt-broker-pro-mosquitto/"" target=""_blank"">Cedalo.</a></div></div></div></div></div></div></div></div></div></div></div></div></div></div><p></p>
+                        </div>
+                    </section>
+                </div>
+            </article>
+        </main>
+    </div><br></h4><h4>Cara install Mosquitto MQTT Broker:</h4>
+<div><br></div>
+<ul>
+    <li>
+        <h4>Download software Mosquitto pada <a href=""https://mosquitto.org/download"" target=""_blank"">https://mosquitto.org/download</a></h4>
+    </li>
+    <li>
+        <h4>Pilih sesuai dengan operating system yang digunakan (misal:mosquito-2.0.13-install-windows-x64.exe</h4>
+    </li>
+    <li>
+        <h4>untuk windows 64 bit)</h4>
+    </li>
+    <li>
+        <h4>Setelah save, ekseskusi program tersebut. Pilih Next,Next, Install dan Finish (lihat gambar bawah)</h4>
+    </li>
+    <li>
+        <h4>Aktifikan Mosquitto dengan CMD : ""C:\Program Files\Mosquitto\mosquitto.exe"" -v</h4>
+    </li>
+    <li>
+        <h4>Server : test.mosquitto.org Port :1883
+        </h4>
+    </li>
+</ul><br>
+<p></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"4","1697878629"
+"39689","4851","Materi IoT  dari ISOC (Internet Society)","<p dir=""ltr"" style=""text-align: center;"">Tugas I:</p>
+<p dir=""ltr"" style=""text-align: left;"">Baca dan pelajari materi berikut ini&nbsp; dan diskusikan dengan teman teman anda, kemudian rangkumkan dalam dalam sebuah laporan pada kertas A4 (boleh lebih dari 1 halaman) mengenai isi materi yang telah di baca dan didiskusikan, paling lambat dikumpulkan pada saat awal pertemuan berikutnya.<br></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"14","1695087422"
+"39691","4851","File Materi pertemuan 3 : NodeMCU","<p dir=""ltr"" style=""text-align: left;""></p><div><strong>Bahan yang diperlukan minimal (selama praktik):</strong></div><div>1 Buah Node MCU (ESP8266-12) + Kabel koneksi ke komputer</div><div>1 Buah BreadBoard</div><div>30 pcs Kabel jumper&nbsp; @ 10 pcs&nbsp; male-male, male-female, female-female</div><div>5 LED 5mm (merah)<br></div><div>1 Tactile Switch push on<br></div><div>5 resistor 330 ohm/470ohm/560ohm</div><div>1 Potensiometer 10 KOhm</div><div><div>1 resistor 10K Ohm</div><div>1 sensor cahaya LDR</div><br></div><div><br></div><div><br></div><br><p></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"8","1697450041"
+"39696","4851","Materi Pengantar IoT Praktis: NodeRed - MQTT- NodeMCU","<h4>Node Red:</h4>
+
+<h4>Aktifkan
+    Mosquitto</h4>
+
+<h4>Aktifkan Node-Red</h4>
+
+<h4>Melalui browser
+    masuk UI Node-Red :&nbsp; <a href=""http://127.0.0.1:1880"">http://127.0.0.1:1880</a></h4>
+
+<h4>&nbsp;</h4>
+
+<h4>Contoh :
+    Mengendalikan NodeMCU ON-OFF LED di D4 dan Memantau Temperatur (LM35DZ – di A0)</h4>
+
+<h4>Koneksikan Node-node sebagai
+    berikut:&nbsp; </h4>
+<div><img src=""@@PLUGINFILE@@/image%20%281%29.png"" alt="""" role=""presentation"" class=""img-fluid""><br></div>
+<div>
+    <h4><br></h4>
+</div>
+<div>
+    <h4>Tahap selanjutnya akan dibahas pada pertemuan hari ini</h4>
+</div>
+<div><br></div><br>
+<p></p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"6","1697879253"
+"49968","5321","Download RPS Hybrid","<p dir=""ltr"">Berikut adalah Rencana Pembelajaran Semester untuk Mata Kuliah Internet Of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"6","1650455052"
+"49969","5321","Download RPP Pertemuan 1-16","<p dir=""ltr"">Berikut adalah Rencana Pelaksanaan Pembelajaran untuk Mata Kuliah Internet Of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"6","1650455083"
+"49970","5321","Download RTM, LKM, LPHB","<p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Topik 1: Pengantar Internet of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"5","1650455112"
+"49971","5321","Download RTM, LKM, LPHB","<p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Topik 2: Arsitektur IoT beserta Penerapannya pada lingkungan Sistem Tertanam (Embedded System)</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"6","1650455258"
+"49972","5321","Slide Perkuliahan Arsitektur IoT","<p dir=""ltr"" style=""text-align: left;"">Berikut Slide Perkuliahan yang berisi rangkuman topik ini, silahkan dipelajari kembali<br></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"2","1665016862"
+"49973","5321","Slide Perkuliahan Sistem Tertanam","<p dir=""ltr"" style=""text-align: left;"">Berikut Slide Perkuliahan yang berisi rangkuman topik ini, silahkan dipelajari kembali<br></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"5","1696489509"
+"49974","5321","Library One Wire","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1635525492"
+"49975","5321","Library Dallas Temperature","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1635525539"
+"49976","5321","Library Keypad","<p dir=""ltr"" style=""text-align: left;"">Gunakan library untuk dapat menggunakan keypad secara mudah</p>",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1641369968"
+"50929","5321","Presentasi Kelompok","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"2","1713232852"
+"51004","5321","Presentasi Kelompok","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"2","1713429909"
+"52440","5322","PPT","",1,0,0,NULL,0,"a:1:{s:10:""printintro"";i:1;}",0,"1","1775813022"
+"49977","5322","Download RPS Hybrid","<p dir=""ltr"">Berikut adalah Rencana Pembelajaran Semester untuk Mata Kuliah Praktikum Internet of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1649899241"
+"49978","5322","Download RPP Pertemuan 1-14","<p dir=""ltr"">Berikut adalah Rencana Pelaksanaan Pembelajaran untuk Mata Kuliah Praktikum Internet of Things</p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"4","1650455413"
+"49979","5322","Download RTM, LKM, LPHB Praktikum 1: IoT dengan Tinkercad","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Praktikum 1: IoT dengan Tinkercad<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1650455444"
+"49980","5322","Download RTM, LKM, LPHB Praktikum 2: Hello LED Coding....","<p dir=""ltr"" style=""text-align: left;""></p><p dir=""ltr"">Berikut adalah 1 set RTM, LKM, dan LPHB dari Praktikum 2: Hello LED Coding....<br></p><br><p></p>",1,0,0,NULL,6,"a:2:{s:10:""popupwidth"";i:620;s:11:""popupheight"";i:450;}",0,"3","1650455468"

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="local/smart_lmsx/db" VERSION="20260509" COMMENT="XMLDB file for local_smart_lmsx">
+  <TABLES>
+    <TABLE NAME="local_smart_lmsx_pred" COMMENT="Tabel hasil prediksi risiko">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="userid" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false"/>
+        <FIELD NAME="courseid" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false"/>
+        <FIELD NAME="risk_score" TYPE="number" LENGTH="10" DECIMALS="5" NOTNULL="true" SEQUENCE="false"/>
+        <FIELD NAME="is_at_risk" TYPE="int" LENGTH="1" NOTNULL="false" SEQUENCE="false" COMMENT="Hasil klasifikasi 0 atau 1"/>
+        <FIELD NAME="status" TYPE="text" NOTNULL="false" SEQUENCE="false" COMMENT="Status kegagalan mahasiswa"/>
+        
+        <FIELD NAME="risk_breakdown" TYPE="text" NOTNULL="false" SEQUENCE="false" COMMENT="Rincian kontribusi fitur dari model SHAP"/>
+        
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+    </TABLE>
+
+    <TABLE NAME="local_smart_lmsx_rec" COMMENT="Tabel rekomendasi materi dari AI">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="userid" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false"/>
+        <FIELD NAME="courseid" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false"/>
+        <FIELD NAME="material_name" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" COMMENT="Judul materi yang disarankan"/>
+        <FIELD NAME="material_link" TYPE="char" LENGTH="255" NOTNULL="false" SEQUENCE="false" COMMENT="Link menuju materi tersebut"/>
+        <FIELD NAME="reason" TYPE="text" NOTNULL="false" SEQUENCE="false" COMMENT="Alasan AI merekomendasikan materi ini"/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+    </TABLE>
+  </TABLES>
+</XMLDB>

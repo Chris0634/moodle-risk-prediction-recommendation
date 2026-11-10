@@ -1,0 +1,88 @@
+"id","content_id","user_id","parent_id","interaction_type","description","correct_responses_pattern","response","additionals","raw_score","max_score"
+"939615","4620","5837",NULL,"fill-in","<p>Isi kode yang tepat untuk agar Arduino Bekerja</p>
+<p>void setup() {<br>
+&nbsp; __________(8, __________);&nbsp; &nbsp;&nbsp;<br>
+}</p>
+
+<p>void loop() {<br>
+&nbsp; digitalWrite(8, __________); // Agar menyala<br>
+&nbsp; delay(1000); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// waits for a second<br>
+&nbsp; digitalWrite(8,__________); &nbsp;// Agar mati<br>
+&nbsp; delay(1000); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// waits for a second<br>
+}</p>
+","[""{case_matters=true}pinmode[,]OUTPUT[,]HIGH[,]LOW""]","pinMode[,]OUTPUT[,]HIGH[,]LOW","{""extensions"":{""http:\/\/h5p.org\/x-api\/h5p-local-content-id"":4620,""https:\/\/h5p.org\/x-api\/case-sensitivity"":true,""https:\/\/h5p.org\/x-api\/alternatives"":[[""pinmode""],[""OUTPUT""],[""HIGH""],[""LOW""]]},""contextExtensions"":{}}",3,4
+"939660","4620","5897",NULL,"fill-in","<p>Isi kode yang tepat untuk agar Arduino Bekerja</p>
+<p>void setup() {<br>
+&nbsp; __________(8, __________);&nbsp; &nbsp;&nbsp;<br>
+}</p>
+
+<p>void loop() {<br>
+&nbsp; digitalWrite(8, __________); // Agar menyala<br>
+&nbsp; delay(1000); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// waits for a second<br>
+&nbsp; digitalWrite(8,__________); &nbsp;// Agar mati<br>
+&nbsp; delay(1000); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// waits for a second<br>
+}</p>
+","[""{case_matters=true}pinmode[,]OUTPUT[,]HIGH[,]LOW""]","PinMode[,]OUTPUT[,]HIGH[,]LOW","{""extensions"":{""http:\/\/h5p.org\/x-api\/h5p-local-content-id"":4620,""https:\/\/h5p.org\/x-api\/case-sensitivity"":true,""https:\/\/h5p.org\/x-api\/alternatives"":[[""pinmode""],[""OUTPUT""],[""HIGH""],[""LOW""]]},""contextExtensions"":{}}",3,4
+"937639","4620","5913",NULL,"fill-in","<p>Isi kode yang tepat untuk agar Arduino Bekerja</p>
+<p>void setup() {<br>
+&nbsp; __________(8, __________);&nbsp; &nbsp;&nbsp;<br>
+}</p>
+
+<p>void loop() {<br>
+&nbsp; digitalWrite(8, __________); // Agar menyala<br>
+&nbsp; delay(1000); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// waits for a second<br>
+&nbsp; digitalWrite(8,__________); &nbsp;// Agar mati<br>
+&nbsp; delay(1000); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// waits for a second<br>
+}</p>
+","[""{case_matters=true}pinmode[,]OUTPUT[,]HIGH[,]LOW""]","pinmode[,]OUTPUT[,]HIGH[,]LOW","{""extensions"":{""http:\/\/h5p.org\/x-api\/h5p-local-content-id"":4620,""https:\/\/h5p.org\/x-api\/case-sensitivity"":true,""https:\/\/h5p.org\/x-api\/alternatives"":[[""pinmode""],[""OUTPUT""],[""HIGH""],[""LOW""]]},""contextExtensions"":{}}",4,4
+"1030046","4620","5938",NULL,"fill-in","<p>Isi kode yang tepat untuk agar Arduino Bekerja</p>
+<p>void setup() {<br>
+&nbsp; __________(8, __________);&nbsp; &nbsp;&nbsp;<br>
+}</p>
+
+<p>void loop() {<br>
+&nbsp; digitalWrite(8, __________); // Agar menyala<br>
+&nbsp; delay(1000); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// waits for a second<br>
+&nbsp; digitalWrite(8,__________); &nbsp;// Agar mati<br>
+&nbsp; delay(1000); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// waits for a second<br>
+}</p>
+","[""{case_matters=true}pinmode[,]OUTPUT[,]HIGH[,]LOW""]","pinmode[,]OUTPUT[,]HIGH[,]LOW","{""extensions"":{""http:\/\/h5p.org\/x-api\/h5p-local-content-id"":4620,""https:\/\/h5p.org\/x-api\/case-sensitivity"":true,""https:\/\/h5p.org\/x-api\/alternatives"":[[""pinmode""],[""OUTPUT""],[""HIGH""],[""LOW""]]},""contextExtensions"":{}}",4,4
+"939617","4620","5940",NULL,"fill-in","<p>Isi kode yang tepat untuk agar Arduino Bekerja</p>
+<p>void setup() {<br>
+&nbsp; __________(8, __________);&nbsp; &nbsp;&nbsp;<br>
+}</p>
+
+<p>void loop() {<br>
+&nbsp; digitalWrite(8, __________); // Agar menyala<br>
+&nbsp; delay(1000); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// waits for a second<br>
+&nbsp; digitalWrite(8,__________); &nbsp;// Agar mati<br>
+&nbsp; delay(1000); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// waits for a second<br>
+}</p>
+","[""{case_matters=true}pinmode[,]OUTPUT[,]HIGH[,]LOW""]","pinmode[,]OUTPUT[,]HIGH[,]LOW","{""extensions"":{""http:\/\/h5p.org\/x-api\/h5p-local-content-id"":4620,""https:\/\/h5p.org\/x-api\/case-sensitivity"":true,""https:\/\/h5p.org\/x-api\/alternatives"":[[""pinmode""],[""OUTPUT""],[""HIGH""],[""LOW""]]},""contextExtensions"":{}}",4,4
+"949912","4620","8471",NULL,"fill-in","<p>Isi kode yang tepat untuk agar Arduino Bekerja</p>
+<p>void setup() {<br>
+&nbsp; __________(8, __________);&nbsp; &nbsp;&nbsp;<br>
+}</p>
+
+<p>void loop() {<br>
+&nbsp; digitalWrite(8, __________); // Agar menyala<br>
+&nbsp; delay(1000); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// waits for a second<br>
+&nbsp; digitalWrite(8,__________); &nbsp;// Agar mati<br>
+&nbsp; delay(1000); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// waits for a second<br>
+}</p>
+","[""{case_matters=true}pinmode[,]OUTPUT[,]HIGH[,]LOW""]","pinmode[,]OUTPUT[,]HIGH[,]LOW","{""extensions"":{""http:\/\/h5p.org\/x-api\/h5p-local-content-id"":4620,""https:\/\/h5p.org\/x-api\/case-sensitivity"":true,""https:\/\/h5p.org\/x-api\/alternatives"":[[""pinmode""],[""OUTPUT""],[""HIGH""],[""LOW""]]},""contextExtensions"":{}}",4,4
+"1079854","4649","8474",NULL,"true-false","Tampak Samping","[""true""]","true","",1,1
+"1079855","4649","8474",NULL,"choice","Berapa ukuran garis tepi minimum untuk kertas A3?","[""0""]","0","",1,1
+"1079856","4649","8474",NULL,"fill-in","Isilah pernyataan dibawah ini dengan kata2 yang Tepat","[""{case_matters=true}value[,]solusi[,]value[,]productivity[,]business model""]","value[,]solusi[,]value[,]productivity[,]business model","",5,5
+"1079857","4649","8474",NULL,"true-false","Tampak Depan","[""false""]","false","",1,1
+"1079858","4649","8474",NULL,"compound","Penyelesaian Keseluruhan Modul H5P","","","",6,6
+"1079859","4649","8474",NULL,"true-false","Tampak Samping","[""true""]","true","",1,1
+"1079860","4649","8474",NULL,"choice","Berapa ukuran garis tepi minimum untuk kertas A3?","[""0""]","0","",1,1
+"1079861","4649","8474",NULL,"fill-in","Isilah pernyataan dibawah ini dengan kata2 yang Tepat","[""{case_matters=true}value[,]solusi[,]value[,]productivity[,]business model""]","value[,]solusi[,]value[,]productivity[,]business model","",5,5
+"1079862","4649","8474",NULL,"true-false","Tampak Depan","[""false""]","false","",1,1
+"1079863","4649","8474",NULL,"compound","Penyelesaian Keseluruhan Modul H5P","","","",6,6
+"1079864","4649","8474",NULL,"true-false","Tampak Samping","[""true""]","true","",1,1
+"1079865","4649","8474",NULL,"choice","Berapa ukuran garis tepi minimum untuk kertas A3?","[""0""]","0","",1,1
+"1079866","4649","8474",NULL,"fill-in","Isilah pernyataan dibawah ini dengan kata2 yang Tepat","[""{case_matters=true}value[,]solusi[,]value[,]productivity[,]business model""]","value[,]solusi[,]value[,]productivity[,]business model","",5,5
+"1079867","4649","8474",NULL,"true-false","Tampak Depan","[""false""]","false","",1,1
+"1079868","4649","8474",NULL,"compound","Penyelesaian Keseluruhan Modul H5P","","","",6,6
